@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**GeoffNderitu/geoffnderitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a Flutter Project :) 
 - 🌱 I’m currently learning Flutter and Dart
 - 👯 I’m looking to collaborate on Laravel
@@ -13,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email me at geoffreynderitun@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a car enthusiast through and through!!
--->
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamnderitu_) 
