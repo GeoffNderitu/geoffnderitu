@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter and Dart
 - 👯 I’m looking to collaborate on Laravel
 - 🤔 I’m looking for help with React
-- 💬 Ask me about MYSoko
+- 💬 Ask me about MySoko
 - 📫 How to reach me: email me at geoffreynderitun@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a car enthusiast through and through!!
